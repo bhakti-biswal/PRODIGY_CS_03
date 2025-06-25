@@ -1,4 +1,3 @@
-# PRODIGY_CS_03
 # Password Entropy Checker
 
 A Python-based tool that calculates the **entropy** of a given password and classifies its strength as **Weak**, **Moderate**, **Strong**, or **Excellent** based on its entropy score and length. This script helps users understand the importance of randomness and complexity in secure password design.
